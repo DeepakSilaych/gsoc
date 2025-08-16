@@ -1,0 +1,24 @@
+{
+    "accuracy_mean": 0.9925,
+    "accuracy_std": 0.010000000000000004,
+    "precision_mean": 0.9925510204081632,
+    "precision_std": 0.009974979110081592,
+    "recall_mean": 0.9925,
+    "recall_std": 0.010000000000000004,
+    "f1_mean": 0.9924930453280968,
+    "f1_std": 0.010003486401693984,
+    "classes": [
+        "coluzzii",
+        "gambiae"
+    ],
+    "aggregated_confusion_matrix": [
+        [
+            241,
+            1
+        ],
+        [
+            2,
+            154
+        ]
+    ]
+}
